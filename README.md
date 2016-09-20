@@ -8,3 +8,6 @@ Chris Trottier
 
 Uri Trejo
 8696413
+
+Chantal Tseung
+8716320
