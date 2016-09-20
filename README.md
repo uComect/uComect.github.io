@@ -11,3 +11,6 @@ Uri Trejo
 
 Chantal Tseung
 8716320
+
+Tyler Tsang
+8659481
