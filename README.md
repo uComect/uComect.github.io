@@ -5,3 +5,6 @@ Sherry Wang
 
 Chris Trottier
 8865579
+
+Uri Trejo
+8696413
