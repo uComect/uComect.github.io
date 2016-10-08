@@ -54,21 +54,24 @@ li a:hover {
 </ul>
 <!-- Copy all of the above into the new HTML pages. This is the top navi bar. Write your code for the desired page function under here or facebook msg me how this works-->
 
-<div class="form">
-
-  <form id="contactform">
-  <p class ="contact"><label for="name">Name: </label></p>
-  <input id="name" name="name" placeholder="First and last name" required="" tabindex="1" type="text">
-
-  <p class="contact"><label for="email">Email: </label></p>
-  <input id="email" name="email" placeholder="example@domain.com" required="" type="email">
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+<div class="wrapper">
+  <h2>Register For An Account</h2>
   <br>
-  <br>
-  <input class="buttom" name="submit" id="submit" tabindex="5" value="Sign me up!" type="submit">
+
+  <form class="form" method="post" action="yourpage.html">
+    <input type="text" class="name" placeholder="Name">
+    <div>
+      <p class="name-help">Please enter your first and last name.</p>
+    </div>
+    <input type="email" class="email" placeholder="Email">
+     <div>
+      <p class="email-help">Please enter your current email address.</p>
+    </div>
+    <input type="submit" class="submit" value="Register">
   </form>
-
-  </div>
-
+</div>
 
 
 
