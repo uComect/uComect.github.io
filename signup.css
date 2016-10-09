@@ -1,19 +1,7 @@
 body{
   background:url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/dark_wall.png);
 }
-html, body {
-    height: 100%;
-}
 
-html {
-    display: table;
-    margin: auto;
-}
-
-body {
-    display: table-cell;
-    vertical-align: middle;
-}
 
 /*sass variables used*/
 $full:100%;
