@@ -1,0 +1,33 @@
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Pavanam">
+font-family: 'Pavanam', sans-serif;
+
+h3{
+	font-family: 'Pavanam', sans-serif;
+	font-size: 34px;
+	top: 450px;
+  	left: 575px;
+  	-webkit-transition: opacity 2s ease-in;
+  	opacity: 0;
+
+}
+
+.relative{
+  position: absolute;
+  top: 350px;
+  left: 560px;
+  font-family: 'Pavanam', sans-serif;
+  font-size: 48px;
+  font-weight: bold;
+  opacity:1;
+
+
+}
+
+.relative2{
+  position: absolute;
+  top: 550px;
+  left: 490px;
+  font-family: 'Pavanam', sans-serif;
+  font-size: 34px;
+
+}
