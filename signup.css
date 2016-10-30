@@ -31,7 +31,12 @@ $align:center;
   -ms-transition:1s ease;
   transition:1s ease;
 }
-
+.center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+  }
 /*site container*/
 .wrapper{
   width:420px;
