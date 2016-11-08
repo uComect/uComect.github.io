@@ -1,0 +1,10 @@
+Colors:
+#333333 (light grey)
+#FFFFFF (white)
+#4484CE (light blue)
+dark grey (textured background) : http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/dark_wall.png
+
+
+Font: 
+Pavanum (from Google Fonts)
+https://fonts.google.com/specimen/Pavanam
