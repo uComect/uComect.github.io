@@ -1,3 +1,6 @@
+Font: 
+Pavanum (from Google Fonts)
+=======
 Colors:
 #333333 (light grey)
 #FFFFFF (white)
