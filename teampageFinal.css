@@ -49,11 +49,11 @@ li a {
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
   opacity: 0.9;
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#951ea8), to(#FFF));
-  background-image: -webkit-linear-gradient(#951ea8 0%, #FFF 100%);
-  background-image: -moz-linear-gradient(#951ea8 0%, #FFF 100%);
-  background-image: -o-linear-gradient(#951ea8 0%, #FFF 100%);
-  background-image: linear-gradient(#951ea8 0%, #FFF 100%);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#4fea3a), to(#FFF));
+  background-image: -webkit-linear-gradient(#4fea3a 0%, #FFF 100%);
+  background-image: -moz-linear-gradient(#4fea3a 0%, #FFF 100%);
+  background-image: -o-linear-gradient(#4fea3a 0%, #FFF 100%);
+  background-image: linear-gradient(#4fea3a 0%, #FFF 100%);
 }
 
 li a:hover {

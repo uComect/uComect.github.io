@@ -49,11 +49,11 @@ li a {
   -webkit-transition-duration: 0.4s;
   transition-duration: 0.4s;
   opacity: 0.9;
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#aa1cad), to(#FFF));
-  background-image: -webkit-linear-gradient(#aa1cad 0%, #FFF 100%);
-  background-image: -moz-linear-gradient(#aa1cad 0%, #FFF 100%);
-  background-image: -o-linear-gradient(#aa1cad 0%, #FFF 100%);
-  background-image: linear-gradient(#aa1cad 0%, #FFF 100%);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eeff38), to(#FFF));
+  background-image: -webkit-linear-gradient(#eeff38 0%, #FFF 100%);
+  background-image: -moz-linear-gradient(#eeff38 0%, #FFF 100%);
+  background-image: -o-linear-gradient(#eeff38 0%, #FFF 100%);
+  background-image: linear-gradient(#eeff38 0%, #FFF 100%);
 }
 .top:{
   background-color: white;
@@ -97,11 +97,11 @@ li a:hover {
  -webkit-transition-duration: 0.4s;
  transition-duration: 0.4s;
  opacity: 0.9;
- background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#aa1cad), to(#FFF));
- background-image: -webkit-linear-gradient(#aa1cad 0%, #FFF 100%);
- background-image: -moz-linear-gradient(#aa1cad 0%, #FFF 100%);
- background-image: -o-linear-gradient(#aa1cad 0%, #FFF 100%);
- background-image: linear-gradient(#aa1cad 0%, #FFF 100%);
+ background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#eeff38), to(#FFF));
+ background-image: -webkit-linear-gradient(#eeff38 0%, #FFF 100%);
+ background-image: -moz-linear-gradient(#eeff38 0%, #FFF 100%);
+ background-image: -o-linear-gradient(#eeff38 0%, #FFF 100%);
+ background-image: linear-gradient(#eeff38 0%, #FFF 100%);
  background-color: transparent;
 }
 .button2:hover {
