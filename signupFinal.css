@@ -162,7 +162,7 @@ body{
 		}
 		.button{
 			font-family: 'Pavanam', sans-serif;
-			background-color: white ;
+			background-color: transparent;
 			border: none;
 			color: black;
 			padding: 15px 32px;
