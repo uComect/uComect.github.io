@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		Features Page
+	</title>
+	<form id="top" action="index.html">
+		<button class="button">
+			<input type = "image" src="Logomakr_5eYYlX.png" style="width: 180px; height: 70px">
+		</button>
+	</form>
+</head>
+<body>
+<link rel="stylesheet" type="text/css" href="FeaturesFinal.css">
+<div class="parallax"></div>
+<ul>
+  <li><a href="signupFinal.html">Sign Up</a></li>
+  <li><a href="FeaturesFinal.html">Features</a></li>
+  <li><a href="PricingFinal.html">Pricing</a></li>
+  <li><a href="teampageFinal.html">Team</a></li>
+  <li><a href="index.html">Home</a></li>
+</ul>
+<center>
+<h1>
+	Features
+</h1>
+</center>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<div class="images">
+	<center>
+	<img class="mySlides" src="time.png" style="width:40%">
+
+  	<img class="mySlides" src="connect.png" style="width:50%">
+  	<img class="mySlides" src="organize.png" style="width:55%">
+
+	<a class="w3-btn-floating w3-display-left" onclick="plusDivs(-1)">&#10094;</a>
+	<a class="w3-btn-floating w3-display-right" onclick="plusDivs(1)">&#10095;</a>
+
+	<form action="signupFinal.html" style="margin-bottom: 40px">
+    <button class="button2">
+    Sign Up Now!
+    </button>
+  </form>
+	</center>
+</div>
+
+<style>
+@import 'https://fonts.googleapis.com/css?family=Pavanam';
+</style>
+<script>
+var slideIndex = 1;
+showDivs(slideIndex);
+
+function plusDivs(n) {
+  showDivs(slideIndex += n);
+}
+
+function showDivs(n) {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  if (n > x.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = x.length}
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";
+  }
+  x[slideIndex-1].style.display = "block";
+}
+</script>
+
+</body>
+</html>
